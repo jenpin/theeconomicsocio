@@ -25,8 +25,8 @@ Pressed for time , our mantra was Do once but do well!
 
 Clear Winners on this trip
 
-1. Cradle Mountain
-   This place is something. We drove from Hobart to the Cradle Mountain reserve. Thanks to GPS and my rudimentary navigational skills we lost our way a couple of times. Nevertheless the drive is a scenic and we enjoyed the detour. Once at the reserve ,the bus will take you to Dove Lake. The bus guide will tell you about the national park, how it was formed and how it has survived. There are a couple of hikes at the reserve. Chanting our mantra we put our finger on the Dove lake circuit bush walk and boy! did we choose well.
+1.### Cradle Mountain
+This place is something. We drove from Hobart to the Cradle Mountain reserve. Thanks to GPS and my rudimentary navigational skills we lost our way a couple of times. Nevertheless the drive is a scenic and we enjoyed the detour. Once at the reserve ,the bus will take you to Dove Lake. The bus guide will tell you about the national park, how it was formed and how it has survived. There are a couple of hikes at the reserve. Chanting our mantra we put our finger on the Dove lake circuit bush walk and boy! did we choose well.
 
 At Dove Lake with the Cradle Mountain ![Cradle Mountain](./cradle_mountain.jpg)
 
@@ -34,8 +34,8 @@ We spent 3 hours at the Dove lake ,did three quarters of the walk but the star o
 
 Take your pick
 
-2. Cataract Gorge
-   Airbnb host recommended the walk along Tamar river to the gorge.The walk starts at the Tamar River Cruise through Kings Park and goes all the way up the mountain (Zig Zag reserve ) right into the first basin of Cataract Gorge.
+2.### Cataract Gorge
+Airbnb host recommended the walk along Tamar river to the gorge.The walk starts at the Tamar River Cruise through Kings Park and goes all the way up the mountain (Zig Zag reserve ) right into the first basin of Cataract Gorge.
 
 The Zig Zag Reserve walk
 
@@ -43,35 +43,24 @@ We initially thought of spending just half the day here and then the other half 
 
 The Gorge - the perfect backdrop to say CHEEEEZZ!
 
-3. Gordon Dam
-   Recommended for a of bikers. You see them everywhere in Tassie and we wondered why though:) The 3 hour drive from Hobart to Strathgordon is picturesque.As you drive along the Gordon river you think the ride could not get better but wait till you see the actual dam.
+3.###Gordon Dam
+Recommended for a of bikers. You see them everywhere in Tassie and we wondered why though:) The 3 hour drive from Hobart to Strathgordon is picturesque.As you drive along the Gordon river you think the ride could not get better but wait till you see the actual dam.
 
 I have been to dams before , but this one was a stunner. It is supposedly higher than the Sydney harbour bridge and you can walk right onto the basin. The view of the Gordon River is so beautiful. The dam has a hydro electric power station too.
 
-4. Eaglehawk Neck
-   If Port Arthur is on your itinerary ,you will surely drive through here. This thin strip known as the Neck connects the Tasman Peninsula to the Forestier Peninsula. This place is a geological wonder and has sights like the Tessellated Pavement, the Tasman Arch ,the Blowhole and the Devils Kitchen. Enticing names right! They are such treats. It will involve some driving around but if you love such natural beauties,Go get your fix!
+4.### Eaglehawk Neck
+If Port Arthur is on your itinerary ,you will surely drive through here. This thin strip known as the Neck connects the Tasman Peninsula to the Forestier Peninsula. This place is a geological wonder and has sights like the Tessellated Pavement, the Tasman Arch ,the Blowhole and the Devils Kitchen. Enticing names right! They are such treats. It will involve some driving around but if you love such natural beauties,Go get your fix!
 
 The natural tessellated pavement
 
-4. Remarkable cave walk
-   Ever dreamt of your own private beach! Too much Indiana Jones for me so we totally tripped on this idea. If the tides are low you can actually jump down and go explore this hideout. This is a beach inside a cave. You have an idyllic setting of the mountains at your back as you sit by the beach and stare out into the ocean.
+4.### Remarkable cave walk
+Ever dreamt of your own private beach! Too much Indiana Jones for me so we totally tripped on this idea. If the tides are low you can actually jump down and go explore this hideout. This is a beach inside a cave. You have an idyllic setting of the mountains at your back as you sit by the beach and stare out into the ocean.
 
 Your own private beach!!!
 
 Remarkable Cave from outside
 
-4.Mt Wellington
-Well well well. This place is seriously NOT overrated. It is worth ever minute. We did this on our last day at Hobart and again assumed we wouldn't be lounging long since we had done Cradle Mountain. Seen one, seen all right?. But we were wrong. We drove up early morning and could see hikers walking up. The drive up was a drive through the clouds and it was cold. However once you reach the summit the view is spectacular. I couldn't help but think - Heaven could be this!!
+4. ###Mt Wellington
+   Well well well. This place is seriously NOT overrated. It is worth ever minute. We did this on our last day at Hobart and again assumed we wouldn't be lounging long since we had done Cradle Mountain. Seen one, seen all right?. But we were wrong. We drove up early morning and could see hikers walking up. The drive up was a drive through the clouds and it was cold. However once you reach the summit the view is spectacular. I couldn't help but think - Heaven could be this!!
 
 You have the sun shining bright as you sit on a bed of clouds .Quite literally! There is an observatory and a couple of walks . We chose to do the organ pipe walk. You get to see this Stone henge formation
-
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
