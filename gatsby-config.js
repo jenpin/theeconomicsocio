@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `theeconomicsocio`,
     author: `Jen Pin`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Outdoor experience blogger`,
     siteUrl: `https://theeconomicsocio.netlify.com/`,
     social: {
       twitter: `jen`,

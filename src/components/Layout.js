@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import a from './background.jpg'
 
 import { rhythm, scale } from '../utils/typography'
 
@@ -23,6 +24,8 @@ class Layout extends React.Component {
               boxShadow: `none`,
               textDecoration: `none`,
               color: `inherit`,
+              backgroundSize: 'cover',
+              backgroundImage: `url(${a})`,
             }}
             to={`/`}
           >
