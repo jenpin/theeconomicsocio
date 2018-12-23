@@ -4,10 +4,10 @@ import Image from 'gatsby-image'
 
 import { rhythm } from '../utils/typography'
 
-function Bio() {
+function bio() {
   return (
     <StaticQuery
-      query={bioQuery}
+      query={profileQuery}
       render={data => {
         const { author, social } = data.site.siteMetadata
         return (
@@ -42,7 +42,7 @@ function Bio() {
   )
 }
 
-const bioQuery = graphql`
+const profileQuery = graphql`
   query BioQuery {
     avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
       childImageSharp {
@@ -62,4 +62,4 @@ const bioQuery = graphql`
   }
 `
 
-export default Bio
+export default bio
