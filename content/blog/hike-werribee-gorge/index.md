@@ -1,6 +1,8 @@
 ---
 title: Day Hike - Werribee Gorge
 date: '2018-12-18T22:12:03.284Z'
+cover_image: './the-gorge.jpg'
+tags: hike, melbourne
 ---
 
 | Location:  | Werribee Gorge State Park |
