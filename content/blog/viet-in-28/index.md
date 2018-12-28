@@ -1,6 +1,7 @@
 ---
 title: 28 day in Viet
 date: '2018-07-12T22:12:03.284Z'
+coverImage: './viet-boat.jpg'
 ---
 
 Vietnam has the reputation of being a backpackers haven. It is a vast country and has a lot to see. Armed with this information I thought 3 weeks is good enough for a holiday and exactly 23 days later with \$1500 AUD /person (this includes E-V-E-R-Y-T-H-I-N-G) lighter, we returned home.

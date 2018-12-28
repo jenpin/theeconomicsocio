@@ -1,6 +1,7 @@
 ---
 title: Tassie On A Budget
 date: '2017-03-23T22:12:03.284Z'
+coverImage: './cradle_mountain.jpg'
 ---
 
 Australia is quite an expensive country when it comes to a holiday. As a migrant to Australia , my first year was all about settling into the new city, new job , new housemates and the long list of news...
