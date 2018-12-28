@@ -5,7 +5,6 @@ date: '2018-12-18T22:12:03.284Z'
 
 | Location:  | Werribee Gorge State Park |
 | ---------- | ------------------------- |
-| Location   | Werribee Gorge State Park |
 | Trail      | Circuit walk              |
 | Distance   | 10.5 km approx            |
 | Time       | 3-4 hours                 |

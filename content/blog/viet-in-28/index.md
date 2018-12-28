@@ -17,13 +17,12 @@ We did 3 domestic one way flights. This cost has been factored under Flights.
 2.  Da Nang -> HCMC (VietJet)
 3.  HCMC ->Phuc Quoc (VietJet)
 
-| Syntax              | Description |
-| ------------------- | ----------- |
-| Activity            | Cost        |
-| Flights             | \$ 750 AUD  |
-| Standard Room Rents | \$300 AUD   |
-| Food/Alcohol        | \$250 AUD   |
-| Miscellaneous       | \$200 AUD   |
+| Activity            | Cost       |
+| ------------------- | ---------- |
+| Flights             | \$ 750 AUD |
+| Standard Room Rents | \$300 AUD  |
+| Food/Alcohol        | \$250 AUD  |
+| Miscellaneous       | \$200 AUD  |
 
 **Stay**
 Throughout our stay we spent in the country, we never pre booked hotels. We did use booking.com to search for a hotel within our budget. We would go to the hotel directly and ask for room rental. Most of the times they would give it to us cheaper than what it was listed for. We stayed in AC rooms for approximately \$10 AUD per night. This was partly cause it was off season. But we saw so many tourists that it would be hard to gauge what it is like at peak season.
