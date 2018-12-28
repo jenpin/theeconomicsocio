@@ -10,7 +10,7 @@ Australia is quite an expensive country when it comes to a holiday. As a migrant
 
 Now that your flight has been taken care of, another deal breaker is accomodation. While on a holiday, depending on whether your a family with kids or just a no-frills couple ,your travel itinerary and budget decides your choice of accomodation.
 
-This was our first trip together and we are the 'a place to spend the night after a day on the road' couple. Past experiences with AirBnb were great so we decide to go - AirBnb!.It helps having tentative itinerary.We wanted to do Hobart, the Cradle Mountain and Launceston. So we broke our journey at these places.
+This was our first trip together and we are the 'a place to spend the night after a day on the road' couple. Past experiences with AirBnb were great so we decide to go - AirBnb!.It helps having tentative itinerary.We wanted to do Hobart, the Cradle Mountain and Launceston. So we broke our journey at these places.![roo](./white_roo.jpg)
 
 Tasmania is relatively small however a drive from Hobart to Launceston takes a good 4 hours. It helps if your night stays are booked. Scrambling for hotels in a place where things close by 5 pm can be hard, my friend.
 
@@ -36,7 +36,7 @@ We spent 3 hours at the Dove lake ,did three quarters of the walk but the star o
 2. ### Cataract Gorge
 
    Airbnb host recommended the walk along Tamar river to the gorge.The walk starts at the Tamar River Cruise through Kings Park and goes all the way up the mountain (Zig Zag reserve ) right into the first basin of Cataract Gorge.
-   The Zig Zag Reserve walk ![The Gorge - the perfect backdrop to say CHEEEEZZ!](./catract_gorge.jpg)
+   ![The perfect backdrop to say CHEEEEZZ](./cataract_gorge.jpg)
    We initially thought of spending just half the day here and then the other half exploring city. But the swimming pool and the gorge were so tempting that we spent the entire day at the Gorge. There is the suspension bridge ,the chairlift, the garden that is tucked away, are lovely additions to the whole gorge experience. The chairlift tickets have to be bought so that can be totally optional. Pack along your sandwiches, beer and have a picnic at the gorge.
 
 3. ###Gordon Dam
@@ -53,6 +53,6 @@ We spent 3 hours at the Dove lake ,did three quarters of the walk but the star o
    Your own private beach!!!
 
 6) ###Mt Wellington
-   Well well well. This place is seriously NOT overrated. It is worth ever minute. We did this on our last day at Hobart and again assumed we wouldn't be lounging long since we had done Cradle Mountain. Seen one, seen all right?. But we were wrong. We drove up early morning and could see hikers walking up. The drive up was a drive through the clouds and it was cold. However once you reach the summit the view is spectacular. I couldn't help but think - Heaven could be this!! ![Mt](./mt \_wellington.jpg.jpg)
+   Well well well. This place is seriously NOT overrated. It is worth ever minute. We did this on our last day at Hobart and again assumed we wouldn't be lounging long since we had done Cradle Mountain. Seen one, seen all right?. But we were wrong. We drove up early morning and could see hikers walking up. The drive up was a drive through the clouds and it was cold. However once you reach the summit the view is spectacular. I couldn't help but think - Heaven could be this. ![Mt](./mt_wellington.jpg)
 
 You have the sun shining bright as you sit on a bed of clouds .Quite literally! There is an observatory and a couple of walks . We chose to do the organ pipe walk. You get to see this Stone henge formation

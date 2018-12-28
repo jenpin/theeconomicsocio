@@ -18,7 +18,7 @@ tags: hike, melbourne
 
 1. Multiple entrances to walking track. However the trail is mapped only at the main parking . Choose to start from the main parking as the track is defined there.
 
-2. Poor signage. Extremely easy to get lost. Always keep handy
+2. Poor signage. Extremely easy to get lost. Always keep the map handy.
    <img src="circuit-map.jpg" align="left">
 
    Our first visit was wonked out thanks to 1 & 2.
