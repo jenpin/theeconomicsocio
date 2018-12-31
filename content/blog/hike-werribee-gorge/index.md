@@ -19,7 +19,7 @@ tags: hike, melbourne
 1. Multiple entrances to walking track. However the trail is mapped only at the main parking . Choose to start from the main parking as the track is defined there.
 
 2. Poor signage. Extremely easy to get lost. Always keep the map handy.
-   <img src="circuit-map.jpg" align="left">
+   <img src="circuit_map.jpg" align="left">
 
    Our first visit was wonked out thanks to 1 & 2.
    Luckily we stumbled upon the short circuit track. However we spent 3 hours randomly walking through the park and could only do half of the short circuit. The views were stunning nevertheless.
