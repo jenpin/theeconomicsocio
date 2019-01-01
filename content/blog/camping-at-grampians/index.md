@@ -2,6 +2,7 @@
 title: Camping at Grampians, Victoria
 date: '2018-12-28T22:12:03.284Z'
 coverImage: './mckenzie_falls.jpg'
+tags: ['melbourne', 'hikes', 'grampians', 'camping', 'budget', 'free']
 ---
 
 Australia is known for some rugged fun & Camping tops the list. We, noobs ,were yet to experience this chose _Camping in Grampians_ over the Christmas break of 2018. O What fun to celebrate hiking!

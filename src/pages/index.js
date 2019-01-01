@@ -34,8 +34,16 @@ class BlogIndex extends React.Component {
               </h3>
               <Img sizes={node.frontmatter.coverImage.childImageSharp.sizes} />
               <small>{node.frontmatter.date}</small>
-
               <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              <ul>
+                {node.frontmatter.tags.map(tag => {
+                  return (
+                    <li>
+                      <Link to={`/tags/${tag}`}>{tag}</Link>
+                    </li>
+                  )
+                })}
+              </ul>
             </div>
           )
         })}
@@ -63,6 +71,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            tags
             coverImage {
               childImageSharp {
                 sizes(maxWidth: 430, maxHeight: 250) {

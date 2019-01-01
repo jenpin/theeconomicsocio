@@ -2,6 +2,17 @@
 title: Tassie On A Budget
 date: '2017-03-23T22:12:03.284Z'
 coverImage: './cradle_mountain.jpg'
+tags:
+  [
+    'tasmania',
+    'hikes',
+    'cradlemountain',
+    'gordondam',
+    'mtwellington',
+    'hobart',
+    'launceston',
+    'cataractgorge',
+  ]
 ---
 
 Australia is quite an expensive country when it comes to a holiday. As a migrant to Australia , my first year was all about settling into the new city, new job , new housemates and the long list of news...
@@ -49,10 +60,8 @@ We spent 3 hours at the Dove lake ,did three quarters of the walk but the star o
 ![Remarkable Cave from outside](./enchanted_cave.jpg)
 
 5. ### Remarkable cave walk
-   Ever dreamt of your own private beach! Too much Indiana Jones for me so we totally tripped on this idea. If the tides are low you can actually jump down and go explore this hideout. This is a beach inside a cave. You have an idyllic setting of the mountains at your back as you sit by the beach and stare out into the ocean.
-   Your own private beach!!!
-
-6) ###Mt Wellington
+   Ever dreamt of your own private beach! Too much Indiana Jones for me so we totally tripped on this idea. If the tides are low you can actually jump down and go explore this hideout. This is a beach inside a cave. You have an idyllic setting of the mountains at your back as you sit by the beach and stare out into the ocean.Your own private beach!!!
+6. ### Mt Wellington
    Well well well. This place is seriously NOT overrated. It is worth ever minute. We did this on our last day at Hobart and again assumed we wouldn't be lounging long since we had done Cradle Mountain. Seen one, seen all right?. But we were wrong. We drove up early morning and could see hikers walking up. The drive up was a drive through the clouds and it was cold. However once you reach the summit the view is spectacular. I couldn't help but think - Heaven could be this. ![Mt](./mt_wellington.jpg)
 
 You have the sun shining bright as you sit on a bed of clouds .Quite literally! There is an observatory and a couple of walks . We chose to do the organ pipe walk. You get to see this Stone henge formation
