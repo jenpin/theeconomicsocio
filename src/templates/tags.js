@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'React'
 import Link from 'gatsby-link'
 const backgroundImage = require('./melbourne.jpg')
 
