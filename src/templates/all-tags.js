@@ -21,4 +21,4 @@ const AllTags = ({ pageContext }) => {
   }
 }
 
-module.export = AllTags
+export default AllTags
