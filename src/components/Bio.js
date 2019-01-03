@@ -15,7 +15,7 @@ function Bio() {
     >
       <img
         src={profilePic}
-        alt={`Jennifer Pinto`}
+        alt="Avatar"
         style={{
           marginRight: rhythm(1 / 2),
           marginBottom: 0,
@@ -27,7 +27,7 @@ function Bio() {
         <span role="img" aria-label="sheep">
           🐑
         </span>
-        <strong> Jen 🎩 </strong>
+        <strong> About the writer 🎩 </strong>
         <div> dreamer, a traveller and a learner</div>
       </p>
     </div>
