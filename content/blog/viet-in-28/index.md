@@ -1,5 +1,5 @@
 ---
-title: 28 day in Viet
+title: Vietnam 2018 | 28 days in Viet
 date: '2018-07-12T22:12:03.284Z'
 coverImage: './viet-cover.jpg'
 tags:

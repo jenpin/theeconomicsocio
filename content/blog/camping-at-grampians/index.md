@@ -1,5 +1,5 @@
 ---
-title: Camping at Grampians, Victoria
+title: Christmas 2018 | Camping at Grampians National Park, Victoria
 date: '2018-12-28T22:12:03.284Z'
 coverImage: './mckenzie_falls.jpg'
 tags: ['melbourne', 'hikes', 'grampians', 'camping', 'budget', 'free']
