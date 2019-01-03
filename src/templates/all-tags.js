@@ -20,3 +20,5 @@ const AllTags = ({ pageContext }) => {
     )
   }
 }
+
+module.export = AllTags
