@@ -38,7 +38,7 @@ So here's a quick rating of our hike
 > ![Cockatoo](./danny.jpg)
 > It feels like you have just entered an aviary.
 
-- We chose to do the Lyrebird walk. The walking tracks are well signed and you cannot get lost.[Signage](./signage.jpg)
+- We chose to do the Lyrebird walk. The walking tracks are well signed and you cannot get lost.![Signage](./signage.jpg)
 
   > These tracks are kid friendly and safe. Also this place seems to be quite busy and popular. People from all walks of life and age come for their dose of exercise.
 
