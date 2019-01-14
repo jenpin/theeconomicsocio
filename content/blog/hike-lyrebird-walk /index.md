@@ -18,14 +18,15 @@ In Melbourne ,it's a waste to spend beautiful weather indoors! Or so we feel!! C
 Coming from Mumbai, helps me value the blue skies, abundant green and magical wildlife of this continent much much more. Nature is indeed so therapeutic.![birds](./bird-feeding.jpg)
 
 So here's a quick rating of our hike
-| Location | Lyrebird walk ,Neuman ,Paddy circuit |
-| ---------| ------------------------------------ |
-| Trail | Circuit walk |
-| Distance | 6.9 km |
-| Time | 3 hours |
-| Elevation | 294m Max |
-| Difficulty | Medium |
-| Start | Grants Picnic Grounds |
+
+| Location   | Lyrebird walk ,Neuman ,Paddy circuit |
+| ---------- | ------------------------------------ |
+| Trail      | Circuit walk                         |
+| Distance   | 6.9 km                               |
+| Time       | 3 hours                              |
+| Elevation  | 294m Max                             |
+| Difficulty | Medium                               |
+| Start      | Grants Picnic Grounds                |
 
 ![Grant-Picnic-Ground](./grant-picnic-ground.jpg)
 
