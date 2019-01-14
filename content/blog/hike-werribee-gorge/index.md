@@ -1,8 +1,8 @@
 ---
 title: Werribee Gorge National Park, Victoria 2019 | Day Hike - Werribee Gorge Circuit
 date: '2018-12-18T22:12:03.284Z'
-coverImage: './werribee_gorge.jpg'
-tags: ['hike', 'melbourne', 'werribeestategorge', 'thingstodo']
+coverImage: './Werribee_gorge.jpg'
+tags: ['hike', 'Melbourne', 'Werribee-state-gorge', 'Things-to-do']
 ---
 
 | Location:  | Werribee Gorge State Park |
@@ -21,7 +21,7 @@ tags: ['hike', 'melbourne', 'werribeestategorge', 'thingstodo']
 2. Poor signage. Extremely easy to get lost. Always keep the map handy.
    <img src="circuit_map.jpg" align="left">
 
-   Our first visit was wonked out thanks to 1 & 2.
+   Our first visit was wonkish thanks to 1 & 2.
    Luckily we stumbled upon the short circuit track. However we spent 3 hours randomly walking through the park and could only do half of the short circuit. The views were stunning nevertheless.
 
 3. The circuit is a 10km hike . It took us approximately 4 hours with few stops. I would totally recommend doing the hike. The sights are spectacular .The walk along the river is quite an experience with river cliffs part of the climb. Apparently the river is home to platypuses, though we didn't see any.
