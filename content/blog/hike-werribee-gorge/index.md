@@ -1,7 +1,7 @@
 ---
 title: Werribee Gorge National Park, Victoria 2019 | Day Hike - Werribee Gorge Circuit
 date: '2018-12-18T22:12:03.284Z'
-coverImage: './Werribee_gorge.jpg'
+coverImage: './cover.jpg'
 tags: ['hike', 'Melbourne', 'Werribee-state-gorge', 'Things-to-do']
 ---
 
