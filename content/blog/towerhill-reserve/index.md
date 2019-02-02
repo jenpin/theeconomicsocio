@@ -28,7 +28,7 @@ There is a different thrill to seeing animals in the wild .
 ![Towerhill](./wall-text.jpg)
 
 > The Reserve sits inside a dormant volcano .Within its spectacular 11km crater rim, the volcanic cones rise from a lake bed in a formation known as a nested maar, which occurred as a result of the volcanic dome collapsing on itself due to weight.
-
+![Towerhillmodel](./top-view.jpg)
 The facility has electric bbqs and a nice picnic area. However there is no drinking water or rubbish bins . Please make sure you have covered these two. We expected emus to be hanging out near the bbq areas for obvious reasons spelt F-O-O-D!
 But much to our dismay there was a lonely ranger.
 ![picnic area](./emu-picnic-area.jpg)
