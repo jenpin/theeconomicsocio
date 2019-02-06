@@ -14,7 +14,7 @@ tags:
   ]
 ---
 
-So Mister & Missus Pinto are visiting us!! Woohoo!! We are thrilled and super excited to show them around and take them to our favorite places in Melbourne. The fresh food markets are sure highlights of Melbourne. While the markets are on our list ,we wanted them to have an enjoyable yet unique experience. Knowing my mother, fruit picking was a clear answer! We knew it would be an experience they would thoroughly enjoy.
+So Mister & Missus Pinto are visiting us!! Woohoo! We are thrilled and super excited to show them around and take them to our favorite places in Melbourne. The fresh food markets are few of the highlights of Melbourne. While the markets are on our list ,we wanted them to have an enjoyable yet unique experience. Knowing my mother, fruit picking was a clear answer! We knew it would be an experience they would thoroughly enjoy.
 ![Strawberry fields](./strawberry-fields.jpg)
 There are plenty of orchards that allow you to pick your own fruit.
 
