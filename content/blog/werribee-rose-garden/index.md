@@ -12,15 +12,16 @@ The best thing about this tourist place is that Werribee State Mansion, State Ro
 Which means if either of them is not your thing you can easily move on to the next.![Rose Bush](./behind_rose_bush.jpg)
 
 This post is solely about the rose garden and this does not imply that we did not have a great time at the zoo. The safari was good but we enjoyed the garden more.
-It is my second visit to the rose garden. I know of many who visit the zoo and are oblivious to the next door neighbor. I don't think that it is fair but that could be just me.
+![Garden seat](./garden_seat.jpg)
 
+It is my second visit to the rose garden. I know of many who visit the zoo and are oblivious to the next door neighbor. I don't think that it is fair but that could be just me.
 ![Werribee State Rose Garden](./selfie.jpg)
 
 > The entry to the garden is free. I told ya, best things in life are for free.
-
-As you enter there there is spectacular display of roses to welcome you. 5000 variety of roses have been nurtured over the 5 acres.
-You are hit by a the colour bomb as you walk into the garden. You simply have to stop and smell the roses!
-![Smell-the-roses](./rose_smell.jpg)
+> ![Roses & Us](./rose_us.jpg)
+> As you enter there there is spectacular display of roses to welcome you. 5000 variety of roses have been nurtured over the 5 acres.
+> You are hit by a the colour bomb as you walk into the garden. You simply have to stop and smell the roses!
+> ![Smell-the-roses](./rose_smell.jpg)
 
 As you continue taking in the sights, the scene just gets better. The
 beautiful Gazebo at the heart of the garden has a nice Victorian vibe.
@@ -40,3 +41,4 @@ We spend two hours just walking and looking for photo opportunities.
 The arches or the runners! Its hard to choose where to pose so you might as well pose with both.![Behind the roses](./behind_roses.jpg)
 
 My mother thoroughly enjoyed the roses and cant wait to go again.
+![End it with a rose](./roses.jpg)
