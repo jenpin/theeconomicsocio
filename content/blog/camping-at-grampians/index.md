@@ -5,7 +5,7 @@ coverImage: './cover.jpg'
 tags: ['Melbourne', 'hikes', 'Grampians', 'camping', 'budget', 'free']
 ---
 
-Australia is known for some rugged fun and camping tops that list. We, noobs ,were yet to experience this chose _Camping in Grampians_ over the Christmas break of 2018. O What fun to it is to ride on a one horse open tent!
+Australia is known for some rugged fun and wild camping tops that list. We, noobs , on that journey chose _Camping in Grampians_ over the Christmas break of 2018. O What fun to it is to ride on a one horse open tent!
 ![camping](./camping.jpg)
 
 **Our trip breakdown**
