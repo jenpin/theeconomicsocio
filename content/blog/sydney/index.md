@@ -31,12 +31,14 @@ Post dinner stroll meant going through the shopping district and watching people
   However on my previous visit I did do a hike along the bay. There are cannon lookouts with a lesson from history written on them. Watson bay also has a light house and a nude beach (wink wink). The light house walk is what I remember doing. The Lady Jane beach is what made it worthy. My first accidental discovery!
 
 - Chinese Garden of Friendship
-  It was on my things to see in Sydney thanks to a friend's recommendation. It is a popular tourist attraction for sure . It was quite busy for a Sunday I thought. The garden is spec of garden admist the concrete.
-  They have tried to create a sense of calm amidst the chaos and they have done a good job at it. The garden does not seem too cramped or extravagant. However having some picnic area would have clearly helped.
+  It was on my things to see in Sydney thanks to a friend's recommendation. It is a popular tourist attraction for sure . It was quite busy for a Sunday I thought. The garden is spec of garden admist the concrete.![Garden](./chinese-garden.jpg)
+  They have tried to create a sense of calm amidst the chaos and they have done a good job at it. The garden does not seem too cramped or extravagant. However having some picnic area would have clearly helped.![Friendship](./chinese-garden-of-friendship.jpg)
   The garden is inhabited by the Chinese water-dragon and tortoise and koi ponds. A perfect slice of Asia.
 
 - St Mary's Cathedral & Hyde Park
+  ![Cathedral](./st-marys.jpg)
   Well if you are after convenience make sure you do the trio i.e Anzac memorial, Hyde park & St Mary's Cathedral. They are all in walking distance from each other. If you enjoy gardens ,this is something you can do.
+  ![Hyde park](./hyde-park.jpg)
 
 Needless to say , especially if you are checking off the Seven Wonders of the world ,that you MUST do the Opera House. The standing tall white against the deep blue sky and sea is just picture perfect.
 It is on my wish list to actually see an opera inside of it. When I hear of a great bargain on the tickets that is! And will surely tell you of my experience.
