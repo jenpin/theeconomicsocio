@@ -1,5 +1,5 @@
 ---
-title: MMelbourne,Australia 2019 | West Gate Lake turns pink, Melbourne CBD
+title: Melbourne,Australia 2019 | West Gate Lake turns pink, Melbourne CBD
 date: '2019-02-23T22:12:03.284Z'
 coverImage: './cover.jpg'
 tags: ['quick-visit', 'places-to-go', 'lake', 'Victoria', 'Melbourne']
