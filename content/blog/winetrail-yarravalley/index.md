@@ -18,3 +18,8 @@ Our generally routine to show visitors around the valley is
 First up Oakridge Vineyards.
 
 My cup runneth over
+
+![Vineyards covered -to protect the fruit from being pecked by birds](./covered-vines.jpg)
+![Wine Glasses](./glasses.jpg)
+![grapes](./grapees.jpg)
+![Of wine & vineyards](./vineyards.jpg)
