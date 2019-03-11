@@ -13,7 +13,7 @@ We were looking for a quick hike and came across the _Black Hill Reserve_. It is
 What make it most outstanding though is, mountain biking.
 
 Most of the walks around the reserve are mountain bike trails. However if you want to flex those calves, it really doesn't matters which path you take here.Throughout the incline is quite steep and slippery so make sure you have some good shoes to strengthen your grip.
-The walking tracks head off around the reserve in all directions, the bike tracks are marked with signs - walkers must avoid these tracks for safety. The walks are very scenic. Since it is the start of fall, the ground was covered with pine cones and the air was full of the woody savor.![pine trees- coniferous](./corniferous.jpg)
+The walking tracks head off around the reserve in all directions, the bike tracks are marked with signs - walkers must avoid these tracks for safety. The walks are very scenic. Since it is the start of fall, the ground was covered with pine cones and the air was full of the woody savor.![pine trees coniferous](./corniferous.jpg)
 
 You have towering pine trees all around as you descend into the beautiful open cut gorge, a remnant of the site's mining days. All along the walking tracks you will find gorgeous scenery and some parts open up to offer fantastic views.
 
