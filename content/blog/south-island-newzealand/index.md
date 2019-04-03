@@ -24,7 +24,7 @@ New Zealand is not your regular ,_"light-on-the-pocket"_ holiday destination. Ho
 
 A grand total of \$1970 for two people for 8 days. These 8 days involved ample driving around , eating some fantastic meals and snacking( cummon ,its a road trip) and star gazing.
 
-![Deep blue water](./danny-washing.jpg)
+![Deep blue water](./compressed_mirror.jpg)
 ##h2 Couple of pointers about the South Island
 
 - Avoid doing too many things in a short time. You will only end up tired and dissatisfied as the south island is vast. Even if Google maps says that its just 6 hours between Queenstown and Christchurch, do not fall for it!!! (Learn from our mistakes.The drives were picturesque nevertheless. ) Those 6 hours are minus the photo op stops and involves some hard core ,laborious, continuous driving. Mind you,most of the South island has these beautiful extravagant mountains which also makes most of your journey winding. You need to be cautious and aware. So why not stop, enjoy the scenery and then drive by.
