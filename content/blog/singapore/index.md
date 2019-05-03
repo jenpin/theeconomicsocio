@@ -27,7 +27,7 @@ MRT trains are cheap and require an EZ-link card. It is also here that you get y
 
 **_Highlights_**
 
-### H3Visit Gardens by the Bay-Gr
+### Visit the Gardens by the Bay
 
 ![Super Grove with the Marina Bay Sands in the background](./Super-Grove.jpg)
 
@@ -38,18 +38,17 @@ Surely a must do for all those gram photos or even to soak in nature.
 
 Brownie Points - The Gardens by the Bay was built keeping Mother Earth in mind. The super groves have solar panels on them which is used to power the light show in the night. The rain water is harvested and used to water the plants in the area.
 
-### H3 Little India
+### Little India
 
 ![Little India](./india2.jpg)
-The Indian imprint on Singapore's urban landscape can be seen most prominently in the form of the Little India neighborhood. The area is famous for its bright colored house ,however the house of Tan Teng Niah takes this to a whole new level. A quick ride on the MTR will get you to this explosion of colors and you will find yourself entering a different version of Singapore. Temples, shopping complexes and eateries mainly dominate the area. However the best way to soak in the beauty of this place is by sauntering through the by lanes ,enjoying an dosai at the local eatery and then
-back to strolling.
+The Indian imprint on Singapore's urban landscape can be seen most prominently in the form of the Little India neighborhood. The area is famous for its bright colored house ,however the house of Tan Teng Niah takes this to a whole new level. A quick ride on the MTR will get you to this explosion of colors and you will find yourself entering a different version of Singapore. Temples, shopping complexes and eateries mainly dominate the area. However the best way to soak in the beauty of this place is by sauntering through the by lanes ,enjoying a dosai at the local eatery and then back to strolling.
 
-### H3 Chinatown
+### Chinatown
 
 ![Chinatown](./chinatown.jpg)
 Continuing on the streak of original names, Chinatown is the main Chinese hub in Singapore. It's fairly close to Little India and is a very interesting area of Singapore to explore. Composed by a maze of narrow streets in Chinatown you will find all sorts of street food stalls, souvenir shops, indie boutiques, trendy wine bars and much more. If the Singaporean heat is becoming a bit too much you can also take refuge in one of the big malls dotted around Chinatown, there's nothing like a bit of shopping and air-con to cool you down!
 The Chinatown Complex Food Center is one of the best places in Singapore to eat. With a wide offer and very attractive prices, let yourself be amazed and, being in Singapore, I can not fail to recommend that you sample the Chilly Crab but be careful, it can be real spicy.
 
-### H3 Marina Bay Sands
+### Marina Bay Sands
 
 This is an iconic resort complex that faces Marina Bay in Singapore and it features The Shoppes at Marina Bay Sands mall, a museum, two large theaters, restaurants, Crystal Pavilions, art-science exhibits, casinos and so much more! SkyPark Observation Deck which is located here provides breathtaking panoramic views over the city,  this observation deck also has the world's longest elevated swimming pool with a vanishing edge (a.k.a. infinity pool) that's located 191 meters above ground. (You can only swim in it though if you're a guest of the hotel; but still and the same, this is a great spot to be in but you need to buy entry tickets.
