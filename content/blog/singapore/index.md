@@ -5,13 +5,13 @@ coverImage: './cover.jpg'
 tags: ['Singapore', 'layover', 'things-to-do', 'short']
 ---
 
-A long stop over between flights is every travelers night mare. Stuck in a small airport without a good book is nothing short of a disaster!! But if that stop over is at the Changi international airport, the equation is quite the converse. We went over to India to visit family this Easter. On our way back to Australia we have an18 hour long stop over at Singapore and I was simply delighted much to the dismay of my husband.
+A long stop over between flights is every travelers night mare. Stuck in a small airport without a good book is nothing short of a disaster!! But if that stop over is at the Changi international airport, the equation is quite the converse. We went over to India to visit family this Easter. On our way back to Australia we have an 18 hour long stop over at Singapore and I was simply delighted much to the dismay of my mister.
 
 There is so much to do both at the airport and at the city that ,boredom was not one of my concerns. The decision of how to spend those 18 precious hours of my life was THE concern.
 
 ![Don't miss the Flower Dome at Gardens by the Bay](./flower-dome.jpg)
 
-If your layover is any less than 7 hours we would recommend staying and exploring Changi airport or doing the city sights and heritage version of the [ daily tours](http://www.changiairport.com/en/airport-guide/facilities-and-services/free-singapore-tour.html) from the airport. The do just to your time and money. Make sure you register yourself an hour before the tour timing.
+If your layover is any less than 7 hours we would recommend staying and exploring Changi airport or doing the city sights and heritage version of the [ daily tours](http://www.changiairport.com/en/airport-guide/facilities-and-services/free-singapore-tour.html) from the airport. They do justice to your time and money. Make sure you register yourself an hour before the tour timing.
 
 For a longer stop make sure you clear immigrations with a valid visa as it simply demands a trip to this manmade beauty-personified city/country.
 
@@ -19,9 +19,9 @@ For a longer stop make sure you clear immigrations with a valid visa as it simpl
 
 The two easiest ways to get from Singapore Changi Airport to the city centre of Singapore are either by taxi or with the MRT train service. The MRT costs around 2 SGD versus the 20 SGD of a taxi. I would personally recommend getting on the MRT . It is simple to commute even for first timers (with no internet access aka Us), quick, efficient and covers all the different areas of the city centre. A taxi instead is quite likely to get stuck in traffic (not that we saw any)and waste you lots of time.
 
-![Singapore tourist pass and A good ol map](./tourist-pass.jpg)
+![Singapore tourist pass and a good ol map to navigate](./tourist-pass.jpg)
 
-MRT trains are cheap and require an EZ-link card. It is also here that you get your first glimpse of this tourist friendly city. The Singapore Tourist Pass for a single day of U-N-L-I-M-I-T-E-D travel (by any mode of public transport) is $20 SGD where in the card deposit($10 SGD) is paid back on card return!!!
+MRT trains are cheap and require an EZ-link card. It is also here that you get your first glimpse of this tourist friendly city. The Singapore Tourist Pass for a single day of U-N-L-I-M-I-T-E-D travel (by any mode of public transport) is $20 SGD where in the card deposit($10 SGD) is paid back on card return!
 
 **Pro Tip:** _if you do not have a SIM i.e. no internet, pick up a free city tourist map. It has great details on how to get to most of the tourist attractions via public transport._
 
@@ -31,10 +31,10 @@ MRT trains are cheap and require an EZ-link card. It is also here that you get y
 
 ![Super Grove with the Marina Bay Sands in the background](./Super-Grove.jpg)
 
-Gardens by the Bay are possibly the most recognizable attraction in Singapore. We have all seen photos of the big metal trees at night lit up with lights. Since we were spending such a brief amount of time in Singapore, this was definitely at the top of my list of places to see. The magnanimous metallic Super Grove trees illuminated are a treat when watched from the Marina Bay Sands hotel and I would suggest going there for the night show. During the day however, you can take a closer look at these giants and walk right under them for free! There are additional attractions at the Gardens like the Cloud Forest, Flower Dome and the Skywalk.
+Gardens by the Bay are possibly the most recognizable attraction in Singapore. We have all seen photos of the humongous trees at night lit up with lights. Since we were spending such a brief amount of time in Singapore, this was definitely at the top of my list of places to see. The magnanimous metallic Super Grove trees illuminated are a treat when watched from the Marina Bay Sands hotel and I would suggest going there for the night show. During the day however, you can take a closer look at these giants and walk right under them for free! There are additional paid attractions at the Gardens like the Cloud Forest, Flower Dome and the Skywalk.
 Discounted tickets can be purchased via [kkday](https://www.kkday.com/en/product/3158).
 So _Be ready to do some serious walking_. There are shuttles to the Dome at a fee of \$3 SGD.
-Surely a must do for all those gram photos or even to soak in nature.
+Surely a must do for all those gram photos or even to just soak in some green.
 
 Brownie Points - The Gardens by the Bay was built keeping Mother Earth in mind. The super groves have solar panels on them which is used to power the light show in the night. The rain water is harvested and used to water the plants in the area.
 

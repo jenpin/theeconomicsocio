@@ -13,10 +13,12 @@
 **Create a Gatsby site.**
 using the below repo a boilerplate site can be created. # create a new Gatsby site using the blog starter
 npx gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
+
 ```
 
 - Run `yarn develop`
 
 ## 💫 Checkout my blog at
 
-[![theeconomicsocio](https://theeconomicsocio.netlify.com/)]
+[![theeconomicsocio](https://theeconomicsocio.com/)]
+```
